@@ -1,7 +1,7 @@
 // to jest wersja by argian
 
 //LOSOWA MATRYCA
-
+//kamehameha
 int dim = 20; boolean [ ] [ ] cells = new boolean[dim][dim];
 
 void setup() {
